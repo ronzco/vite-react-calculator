@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="container">
       <div style={{ color: "white", textAlign: "center" }}>
-        <h1>Halo, ini Kalkulator React!</h1>
+        <h1>Kalkulator React!</h1>
       </div>
       <Calculator />
     </div>
